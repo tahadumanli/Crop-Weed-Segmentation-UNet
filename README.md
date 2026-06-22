@@ -38,6 +38,7 @@ Below is an example of the segmentation pipeline's performance, mapping raw inpu
 ├── baseline_model.pth                       # Trained U-Net model weights (PyTorch state_dict)
 ├── Technical_Project_Report.pdf    # Comprehensive scientific and technical project report
 └── image_66947d.png                         # Visual preview of inference results
+```
 
 ## 🚀 Technical Stack & Keywords
 
