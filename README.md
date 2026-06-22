@@ -37,7 +37,7 @@ Below is an example of the segmentation pipeline's performance, mapping raw inpu
 ├── crop_weed_segmentation.ipynb  # Core training, data augmentation & evaluation notebook
 ├── baseline_model.pth                       # Trained U-Net model weights (PyTorch state_dict)
 ├── Technical_Project_Report.pdf    # Comprehensive scientific and technical project report
-└── image_66947d.png                         # Visual preview of inference results
+└── segmentation_results.png                        # Visual preview of inference results
 ```
 ---
 
